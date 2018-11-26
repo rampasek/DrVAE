@@ -1,6 +1,9 @@
 # README #
-Dr.VAE: Improving drug response prediction via generative modeling of drug perturbation effects
-Ladislav Rampášek et al. (in review 2018)
+Dr.VAE: Improving drug response prediction via modeling of drug perturbation effects
+
+Ladislav Rampášek, Daniel Hidru, Petr Smirnov, Benjamin Haibe-Kains and Anna Goldenberg (in review 2018)
+
+[![DOI](https://zenodo.org/badge/134617808.svg)](https://zenodo.org/badge/latestdoi/134617808)
 
 ### Overview ###
 
