@@ -1,9 +1,9 @@
 # README #
 Dr.VAE: Improving drug response prediction via modeling of drug perturbation effects
 
-Ladislav Rampášek, Daniel Hidru, Petr Smirnov, Benjamin Haibe-Kains and Anna Goldenberg (in review 2018)
+Ladislav Rampášek, Daniel Hidru, Petr Smirnov, Benjamin Haibe-Kains and Anna Goldenberg ([Oxford Bioinformatics, 2019](https://doi.org/10.1093/bioinformatics/btz158))
 
-[![DOI](https://zenodo.org/badge/134617808.svg)](https://zenodo.org/badge/latestdoi/134617808)
+[![DOI](https://zenodo.org/badge/134617808.svg)](https://zenodo.org/badge/latestdoi/134617808) 
 
 ### Overview ###
 
